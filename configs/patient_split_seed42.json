@@ -1,0 +1,31 @@
+{
+  "seed": 42,
+  "splits": {
+    "train": [
+      "LIDC-IDRI-0002",
+      "LIDC-IDRI-0005",
+      "LIDC-IDRI-0006",
+      "LIDC-IDRI-0007",
+      "LIDC-IDRI-0010",
+      "LIDC-IDRI-0011",
+      "LIDC-IDRI-0012",
+      "LIDC-IDRI-0013",
+      "LIDC-IDRI-0014",
+      "LIDC-IDRI-0015",
+      "LIDC-IDRI-0016",
+      "LIDC-IDRI-0018",
+      "LIDC-IDRI-0019",
+      "LIDC-IDRI-0020"
+    ],
+    "validation": [
+      "LIDC-IDRI-0003",
+      "LIDC-IDRI-0008",
+      "LIDC-IDRI-0017"
+    ],
+    "test": [
+      "LIDC-IDRI-0001",
+      "LIDC-IDRI-0004",
+      "LIDC-IDRI-0009"
+    ]
+  }
+}
